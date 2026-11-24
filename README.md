@@ -1,8 +1,6 @@
 
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">👋 Hi, I'm Kalana Teshantha Sandaruwan</h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14213D,100:2563EB&height=220&section=header&text=Kalana%20Teshantha&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20Frontend%20Development%20%7C%20UI%2FUX%20Design&descAlignY=58&descSize=15" width="100%" />
 </p>
